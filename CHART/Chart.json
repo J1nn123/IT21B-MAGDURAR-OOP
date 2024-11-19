@@ -1,0 +1,15 @@
+{
+    "barChart": {
+      "labels": ["January", "February", "March", "April", "May"],
+      "data": [10, 20, 15, 25, 30]
+    },
+    "pieChart": {
+      "labels": ["Red", "Blue", "Yellow", "Green", "Purple"],
+      "data": [12, 19, 3, 5, 2]
+    }
+    ,
+    "lineChart": {
+      "labels": ["Red", "Blue", "Yellow", "Green", "Purple"],
+      "data": [12, 19, 3, 5, 3]
+    }
+  }
